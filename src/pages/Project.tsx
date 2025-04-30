@@ -8,7 +8,7 @@ const Project = () => {
       <h1 className="mx-auto text-center text-4xl md:w-[20vw]">
         We'r Providing Quality Roofing Services
       </h1>
-      <div className="flex flex-col md:flex-row gap-5 justify-center items-center mt-15">
+      <div className="flex flex-col md:flex-row gap-18 justify-center items-center mt-15">
         {CardData.map(
           (
             card,
