@@ -1,4 +1,4 @@
-import logo from './logo.png'
+import logo from './Logo.png'
 import card1 from './Card-image.png'
 import card2 from './card-image-2.png'
 import card3 from './card-image-3.png'
