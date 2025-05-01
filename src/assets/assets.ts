@@ -4,6 +4,11 @@ import card2 from './card-image-2.png'
 import card3 from './card-image-3.png'
 import about from './about.png'
 import hero from './Hero-Image.png'
+import Rect from './Rect.png'
+import Supplie from './SupplieV.png'
+import innovation from './innovation.png'
+import asbestos from './asbestos.png'
+import CompanySeal from './CompanySeal.png'
 
 
 export const images ={
@@ -12,7 +17,12 @@ export const images ={
     card2,
     card3,
     about,
-    hero
+    hero,
+    Rect,
+    Supplie,
+    innovation,
+    asbestos,
+    CompanySeal
 }
 
 export const CardData = [
