@@ -5,7 +5,7 @@ import Supplies from "./pages/Supplies.tsx"
 
 const App = () => {
   return (
-    <div>
+    <div className="relative w-full h-full overflow-x-hidden">
       <Navbar/>
       <Home/>
       <Project/>

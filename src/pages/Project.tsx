@@ -4,8 +4,8 @@ import { Button } from "@/components/ui/button.tsx";
 
 const Project = () => {
   return (
-    <div className="min-h-[50vh] w-full mt-10 text items-center relative mb-10 ">
-      <h1 className="mx-auto text-center text-4xl md:w-[20vw]">
+    <div className="min-h-[50vh] w-screen mt-10 text items-center relative mb-10 flex flex-col justify-center">
+      <h1 className="mx-auto text-center text-3xl md:text-4xl md:w-[20vw]">
         We'r Providing Quality Roofing Services
       </h1>
       <div className="flex flex-col md:flex-row gap-18 justify-center items-center mt-15">
