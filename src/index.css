@@ -1,7 +1,6 @@
 @import "tailwindcss";
 @import "tw-animate-css";
 
-
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {
@@ -126,5 +125,12 @@
 }
 
 .supplie{
+  clip-path: polygon(0 15%, 100% 0, 100% 85%, 0 100%);
+}
+.clip-1{
+  clip-path: polygon(0 15%, 100% 0, 100% 85%, 0 100%);
+
+}
+.clip-2{
   clip-path: polygon(0 15%, 100% 0, 100% 85%, 0 100%);
 }

@@ -9,6 +9,11 @@ import Supplie from './SupplieV.png'
 import innovation from './innovation.png'
 import asbestos from './asbestos.png'
 import CompanySeal from './CompanySeal.png'
+import Explore1 from './Ex1.png'
+import Explore2 from './Ex2.png'
+import Explore3 from './Ex3.png'
+import Explore4 from './Ex4.png'
+import RectImage from './RectImage.png'
 
 
 export const images ={
@@ -22,7 +27,12 @@ export const images ={
     Supplie,
     innovation,
     asbestos,
-    CompanySeal
+    CompanySeal,
+    Explore1,
+    Explore2,
+    Explore3,
+    Explore4,
+    RectImage
 }
 
 export const CardData = [
@@ -46,6 +56,31 @@ export const CardData = [
     }
     
 ];
+
+export const WorkData = [
+    {
+        image: Explore1,
+        header: 'Factory,Residential',
+        description: 'Roof Construction',
+    },
+    {
+        image: Explore2,
+        header: 'Factory,Residential',
+        description: 'Modern Roofing',
+    },
+    {
+        image: Explore3,
+        header: 'Factory,Residential',
+        description: 'Renovation Roof',
+    },
+    {
+        image: Explore4,
+        header: 'Factory,Residential',
+        description: 'Classic Roofing',
+    }
+    
+];
+
 
 
 
