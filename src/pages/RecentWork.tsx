@@ -21,7 +21,7 @@ const RecentWork = () => {
           ))}
         </div>
       </div>
-      <div className="clip-2 w-full md:min-h-2/3 h-[125vh] bg-green-600 absolute top-160 styled-clip-2 text-white">
+      <div className="clip-2 w-full md:min-h-[2/3] h-[125vh] md:bg-white bg-red-400 absolute top-160 styled-clip-2 text-white">
         <img src={images.RectImage} alt="" className="w-full h-auto relative hidden md:block" />
         <div className="flex flex-col items-center justify-center absolute inset-0 z-13">
           <h1 className="md:text-6xl text-4xl text-center md:w-[38%] font-semibold">Leading Way In Roofing and Repair Construction!</h1>
