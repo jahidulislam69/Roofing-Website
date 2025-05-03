@@ -26,7 +26,7 @@ const Supplies = () => {
         </div>
       
     </div>
-    <div className="mt-10 container mx-auto flex flex-col justify-center items-center text-center md:p-10 p-40">
+    <div className="mt-18 container mx-auto flex flex-col justify-center items-center text-center md:p-10 p-40">
             <h1 className="text-5xl font-semibold text-center">Our Supplieres</h1>
             <div className="flex flex-wrap justify-center items-center gap-8 mt-16">
                 {[1,2,3,4,5,6,7,8,9].map((i) => (

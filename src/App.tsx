@@ -1,4 +1,5 @@
 import Navbar from "./components/Navbar.tsx"
+import Footer from "./pages/Footer.tsx"
 import Home from "./pages/Home.tsx"
 import Project from "./pages/Project.tsx"
 import RecentWork from "./pages/RecentWork.tsx"
@@ -14,6 +15,7 @@ const App = () => {
       <Supplies/>
       <RecentWork/>
       <Reviews/>
+      <Footer/>
     </div>
   )
 }

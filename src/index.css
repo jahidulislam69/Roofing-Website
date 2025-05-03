@@ -134,3 +134,8 @@
 .clip-2{
   clip-path: polygon(0 15%, 100% 0, 100% 85%, 0 100%);
 }
+.footer{
+  background-image: url(assets/Footer.png);
+  width: 100%;
+
+}
